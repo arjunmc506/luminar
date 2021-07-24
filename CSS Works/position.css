@@ -1,0 +1,14 @@
+.row{
+    width: 400px;
+    height: 400px;
+    background-color: chartreuse;
+    position: relative;
+}
+.col{
+    width: 150px;
+    height: 150px; 
+    background-color: brown;
+    position: absolute;
+    top: 10%;
+    left: 80%;
+}

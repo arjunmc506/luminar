@@ -1,0 +1,106 @@
+@import url('https://fonts.googleapis.com/css2?family=Bebas+Neue&display=swap');
+
+h1{
+    text-align: center;
+    color: white;
+    font-family: 'Bebas Neue', cursive;
+}
+body{
+    background-color: black;
+}
+.parent{
+    width: 100%;
+    height: 150px;
+    position: relative;
+}
+
+.col{
+    height: 150px;
+    width: 120px;
+    position: absolute;
+}
+.one{
+    background-color: grey;
+    position: absolute;
+    left: 390px;
+
+}
+.two{
+    background-color: lightgreen;
+    position: absolute;
+    left: 520px;
+}
+.three{
+    background-color: green;
+    position: absolute;
+    left: 650px;
+}
+.four{
+    background-color: lime;
+    position: absolute;
+    left: 780px;
+}
+.five{
+    background-color: linen;
+    position: absolute;
+    left: 910px;
+}
+
+
+.parent1{
+    width: 100%;
+    height: 200px;
+    position: relative;
+}
+
+.col1{
+    height: 150px;
+    width: 120px;
+    position: absolute;
+    top: 10px;
+}
+.one1{
+    background-color: rgb(236, 12, 12);
+    position: absolute;
+    left: 330px;
+
+}
+.two1{
+    background-color: rgb(219, 182, 15);
+    position: absolute;
+    left: 460px;
+}
+.three1{
+    background-color: green;
+    position: absolute;
+    left: 590px;
+}
+.four1{
+    background-color: lime;
+    position: absolute;
+    left: 720px;
+}
+.five1{
+    background-color: linen;
+    position: absolute;
+    left: 850px;
+}
+.six1{
+    background-color: rgb(53, 7, 218);
+    position: absolute;
+    left: 980px;
+}
+
+.outside{
+    position: sticky;
+    left: 1100px;
+    width: 200px;
+    height: 200px;
+    background-color: darkblue;
+    top: 0%;
+
+}
+
+.non{
+    height: 10000px;
+}

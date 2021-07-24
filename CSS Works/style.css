@@ -1,0 +1,17 @@
+h1{
+    color: blue;
+    text-align: center;
+    text-decoration: underline;
+}
+body{
+    background-color: darkgrey;
+}
+#id{
+    color: rgb(100, 75, 50);
+}
+.cls{
+    color: #ff007b;
+}
+h3{
+    color: rgb(78, 242, 13);
+}
