@@ -13,3 +13,5 @@ if (num>0){
 else{
     console.log("Negative")
 }
+
+var
